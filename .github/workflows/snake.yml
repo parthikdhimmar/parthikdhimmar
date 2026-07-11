@@ -1,0 +1,43 @@
+name: Generate Snake Animation
+
+on:
+  # Automatically updates the snake every day
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Allows you to run it manually
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution snake SVG files
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Commit generated snake files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add dist/*.svg
+
+          if git diff --cached --quiet; then
+            echo "No snake changes to commit."
+          else
+            git commit -m "Update contribution snake animation"
+            git push
+          fi
