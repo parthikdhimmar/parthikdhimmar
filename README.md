@@ -1,10 +1,11 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=3000&pause=1800&color=16C9FF&center=true&vCenter=true&repeat=true&width=650&height=70&lines=Myself+Parthik!;Hii+There!+%F0%9F%91%8B%F0%9F%8F%BB"
+    src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=3500&pause=2000&color=16C9FF&center=true&vCenter=true&repeat=true&width=650&height=70&lines=Myself+Parthik;Hii+There!+%F0%9F%91%8B%F0%9F%8F%BB"
     alt="Typing Animation"
   />
 </p>
 
+<hr>
 
 <h3 align="center">
   ASP.NET Core Web API Developer
@@ -24,10 +25,6 @@
   <br>
   💼 Open to entry-level software development opportunities
 </p>
-
-
-<br>
-
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
