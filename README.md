@@ -4,3 +4,23 @@
     alt="Typing Animation"
   />
 </p>
+
+
+<h3 align="center">
+  ASP.NET Core Web API Developer
+</h3>
+
+<p align="center">
+  BCA Graduate focused on Backend Development and REST APIs
+</p>
+
+<p align="center">
+  I build simple and useful backend applications using
+  <b>C#, ASP.NET Core, SQL Server, Swagger and Postman.</b>
+</p>
+
+<p align="center">
+  🌱 Currently learning advanced .NET backend development
+  <br>
+  💼 Open to entry-level software development opportunities
+</p>
