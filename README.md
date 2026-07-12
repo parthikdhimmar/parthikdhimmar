@@ -5,7 +5,8 @@
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=3500&pause=2000&color=16C9FF&center=true&vCenter=true&repeat=true&width=650&height=70&lines=Myself+Parthik;Hii+There!+%F0%9F%91%8B%F0%9F%8F%BB"
-    alt="Typing Animation"
+        src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=3200&pause=1600&color=16C9FF&center=true&vCenter=true&repeat=true&width=850&height=70&lines=Welcome+to+My+GitHub+Profile!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Parthik+Dhimmar;
+
   />
 </p>
 
