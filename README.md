@@ -63,7 +63,7 @@
 
 <!-- Programming and Backend -->
 
-<h3 align="center">💻 Programming & Backend</h3>
+<h3 align="center">Programming & Backend</h3>
 
 <p align="center">
   <img
@@ -117,7 +117,7 @@
 
 <!-- Databases and API Technologies -->
 
-<h3 align="center">🗄️ Databases & API Technologies</h3>
+<h3 align="center">Databases & API Technologies</h3>
 
 <p align="center">
   <img
@@ -162,7 +162,7 @@
 </p>
 <!-- Development Tools -->
 
-<h3 align="center">🔧 Development Tools</h3>
+<h3 align="center">Development Tools</h3>
 
 <p align="center">
   <img
