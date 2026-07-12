@@ -238,39 +238,27 @@
 <!-- ============================= -->
 <!--      CONTRIBUTION SNAKE       -->
 <!-- ============================= -->
-<hr>
+name: Generate Pac-Man Contribution Game
 
-<h2 align="center">🐍 Contribution Snake</h2>
+on:
+  schedule:
+    - cron: "0 0 * * *"
 
-<p align="center">
-  Watch the snake move through my GitHub contribution graph.
-</p>
+  workflow_dispatch:
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/parthikdhimmar/parthikdhimmar/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/parthikdhimmar/parthikdhimmar/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/parthikdhimmar/parthikdhimmar/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake Animation"
-    />
-  </picture>
-</p>
+  push:
+    branches:
+      - main
 
-<p align="center">
-  <i>Every contribution is another step in my development journey.</i>
-</p>
+permissions:
+  contents: write
 
-<br>
+jobs:
+  generate:
+    permissions:
+      contents: write
 
-<hr>
-
+   
 <!-- ============================= -->
 <!--        CONTACT SECTION        -->
 <!-- ============================= -->
