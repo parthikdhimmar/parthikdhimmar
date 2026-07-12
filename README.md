@@ -340,23 +340,36 @@
 <!--        CONNECT WITH ME        -->
 <!-- ============================= -->
 
+<hr>
+
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-  Let’s connect, collaborate and build something useful.
+  <sub>Let’s connect, collaborate and build something useful.</sub>
 </p>
 
 <br>
 
-<!-- Professional Profiles -->
-
-<p align="center"><a href="https://github.com/parthikdhimmar" title="GitHub Profile"><img src="https://api.iconify.design/skill-icons/github-dark.svg" width="46" height="46" alt="GitHub"></a>&nbsp;&nbsp;&nbsp;<a href="YOUR_LINKEDIN_PROFILE_URL" title="LinkedIn Profile"><img src="https://api.iconify.design/logos/linkedin-icon.svg" width="46" height="46" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;<a href="YOUR_NAUKRI_PROFILE_URL" title="Naukri.com Profile"><img src="https://api.iconify.design/mdi/briefcase-search-outline.svg?color=%2300AEEF" width="46" height="46" alt="Naukri.com"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:parthikdhimmar003@gmail.com" title="Send Me an Email"><img src="https://api.iconify.design/logos/google-gmail.svg" width="46" height="46" alt="Gmail"></a></p>
-
-<br>
-
-<!-- Social Profiles -->
-
-<p align="center"><a href="https://wa.me/91YOUR_10_DIGIT_NUMBER" title="Message Me on WhatsApp"><img src="https://api.iconify.design/logos/whatsapp-icon.svg" width="46" height="46" alt="WhatsApp"></a>&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" title="Instagram Profile"><img src="https://api.iconify.design/skill-icons/instagram.svg" width="46" height="46" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.snapchat.com/add/YOUR_SNAPCHAT_USERNAME" title="Snapchat Profile"><img src="https://api.iconify.design/logos/snapchat-icon.svg" width="46" height="46" alt="Snapchat"></a></p>
+<p align="center">
+  <a href="https://github.com/parthikdhimmar" title="GitHub Profile">
+    <img src="https://api.iconify.design/skill-icons/github-dark.svg" width="44" height="44" alt="GitHub" />
+  </a>&nbsp;&nbsp;
+  <a href="YOUR_LINKEDIN_PROFILE_URL" title="LinkedIn Profile">
+    <img src="https://api.iconify.design/logos/linkedin-icon.svg" width="44" height="44" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="YOUR_NAUKRI_PROFILE_URL" title="Naukri.com Profile">
+    <img src="https://api.iconify.design/mdi/briefcase-search.svg?color=%232D8CFF" width="44" height="44" alt="Naukri.com" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:parthikdhimmar003@gmail.com" title="Send Me an Email">
+    <img src="https://api.iconify.design/logos/google-gmail.svg" width="44" height="44" alt="Gmail" />
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/91YOUR_10_DIGIT_NUMBER" title="Message Me on WhatsApp">
+    <img src="https://api.iconify.design/logos/whatsapp-icon.svg" width="44" height="44" alt="WhatsApp" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" title="Instagram Profile">
+    <img src="https://api.iconify.design/skill-icons/instagram.svg" width="44" height="44" alt="Instagram" />
+  </a>
+</p>
 
 <br>
 
@@ -365,5 +378,5 @@
 </p>
 
 <p align="center">
-  <i>Keep learning • Keep building • Keep improving</i>
+  <i><sub>Keep learning • Keep building • Keep improving</sub></i>
 </p>
