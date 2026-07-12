@@ -160,6 +160,7 @@
     alt="REST APIs"
   />
 </p>
+
 <!-- Development Tools -->
 
 <h3 align="center">Development Tools</h3>
@@ -214,8 +215,6 @@
   />
 </p>
 
-<br>
-
 <!-- Extra Skills -->
 
 <p align="center">
@@ -236,8 +235,6 @@
     alt="AI-Assisted Development"
   />
 </p>
-
-<br>
 
 <!-- ============================= -->
 <!--       DEPLOYMENT SECTION      -->
@@ -272,7 +269,7 @@
 </p>
 
 <p align="center">
-  <sub>Vercel &nbsp; • &nbsp; Render &nbsp; • &nbsp; Railway</sub>
+  Vercel &nbsp; • &nbsp; Render &nbsp; • &nbsp; Railway
 </p>
 
 <br>
@@ -290,43 +287,44 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><b><sub>Programming Languages</sub></b></td>
-<td><sub>C#, Java, JavaScript (Basic)</sub></td>
+<td align="center"><b>Programming Languages</b></td>
+<td>C#, Java, JavaScript (Basic)</td>
 </tr>
 <tr>
-<td align="center"><b><sub>Backend Development</sub></b></td>
-<td><sub>ASP.NET Core Web API, REST APIs, CRUD Operations</sub></td>
+<td align="center"><b>Backend Development</b></td>
+<td>ASP.NET Core Web API, REST APIs, CRUD Operations</td>
 </tr>
 <tr>
-<td align="center"><b><sub>Frontend Development</sub></b></td>
-<td><sub>HTML5, CSS3, JavaScript, Modern UI Web Design</sub></td>
+<td align="center"><b>Frontend Development</b></td>
+<td>HTML5, CSS3, JavaScript, Modern UI Web Design</td>
 </tr>
 <tr>
-<td align="center"><b><sub>Database Technologies</sub></b></td>
-<td><sub>SQL Server (Basic), Firebase, Supabase (Basic)</sub></td>
+<td align="center"><b>Database Technologies</b></td>
+<td>SQL Server (Basic), Firebase, Supabase (Basic)</td>
 </tr>
 <tr>
-<td align="center"><b><sub>API Tools</sub></b></td>
-<td><sub>Swagger, Postman</sub></td>
+<td align="center"><b>API Tools</b></td>
+<td>Swagger, Postman</td>
 </tr>
 <tr>
-<td align="center"><b><sub>Development Tools</sub></b></td>
-<td><sub>Visual Studio, VS Code, Android Studio</sub></td>
+<td align="center"><b>Development Tools</b></td>
+<td>Visual Studio, VS Code, Android Studio</td>
 </tr>
 <tr>
-<td align="center"><b><sub>Version Control</sub></b></td>
-<td><sub>Git, GitHub</sub></td>
+<td align="center"><b>Version Control</b></td>
+<td>Git, GitHub</td>
 </tr>
 <tr>
-<td align="center"><b><sub>Deployment Platforms</sub></b></td>
-<td><sub>Vercel, Render, Railway (Basic)</sub></td>
+<td align="center"><b>Deployment Platforms</b></td>
+<td>Vercel, Render, Railway (Basic)</td>
 </tr>
 <tr>
-<td align="center"><b><sub>Other Skills</sub></b></td>
-<td><sub>MS Excel, AI-Assisted Development</sub></td>
+<td align="center"><b>Other Skills</b></td>
+<td>MS Excel, AI-Assisted Development</td>
 </tr>
 </tbody>
 </table>
+
 <br>
 
 <hr>
@@ -335,36 +333,13 @@
 <!--        CONNECT WITH ME        -->
 <!-- ============================= -->
 
-<hr>
-
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-  <sub>Let’s connect, collaborate and build something useful.</sub>
+  Let’s connect, collaborate and build something useful.
 </p>
 
-<br>
-
-<p align="center">
-  <a href="https://github.com/parthikdhimmar" title="GitHub Profile">
-    <img src="https://api.iconify.design/skill-icons/github-dark.svg" width="44" height="44" alt="GitHub" />
-  </a>&nbsp;&nbsp;
-  <a href="YOUR_LINKEDIN_PROFILE_URL" title="LinkedIn Profile">
-    <img src="https://api.iconify.design/logos/linkedin-icon.svg" width="44" height="44" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="YOUR_NAUKRI_PROFILE_URL" title="Naukri.com Profile">
-    <img src="https://api.iconify.design/mdi/briefcase-search.svg?color=%232D8CFF" width="44" height="44" alt="Naukri.com" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:parthikdhimmar003@gmail.com" title="Send Me an Email">
-    <img src="https://api.iconify.design/logos/google-gmail.svg" width="44" height="44" alt="Gmail" />
-  </a>&nbsp;&nbsp;
-  <a href="https://wa.me/91YOUR_10_DIGIT_NUMBER" title="Message Me on WhatsApp">
-    <img src="https://api.iconify.design/logos/whatsapp-icon.svg" width="44" height="44" alt="WhatsApp" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" title="Instagram Profile">
-    <img src="https://api.iconify.design/skill-icons/instagram.svg" width="44" height="44" alt="Instagram" />
-  </a>
-</p>
+<p align="center"><a href="https://github.com/parthikdhimmar" title="GitHub Profile"><img src="https://api.iconify.design/skill-icons/github-dark.svg" width="44" height="44" alt="GitHub"></a>&nbsp;&nbsp;<a href="YOUR_LINKEDIN_PROFILE_URL" title="LinkedIn Profile"><img src="https://api.iconify.design/logos/linkedin-icon.svg" width="44" height="44" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="YOUR_NAUKRI_PROFILE_URL" title="Naukri.com Profile"><img src="https://api.iconify.design/mdi/briefcase-search.svg?color=%232D8CFF" width="44" height="44" alt="Naukri.com"></a>&nbsp;&nbsp;<a href="mailto:parthikdhimmar003@gmail.com" title="Send Me an Email"><img src="https://api.iconify.design/logos/google-gmail.svg" width="44" height="44" alt="Gmail"></a>&nbsp;&nbsp;<a href="https://wa.me/91YOUR_10_DIGIT_NUMBER" title="Message Me on WhatsApp"><img src="https://api.iconify.design/logos/whatsapp-icon.svg" width="44" height="44" alt="WhatsApp"></a>&nbsp;&nbsp;<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" title="Instagram Profile"><img src="https://api.iconify.design/skill-icons/instagram.svg" width="44" height="44" alt="Instagram"></a></p>
 
 <br>
 
@@ -373,5 +348,5 @@
 </p>
 
 <p align="center">
-  <i><sub>Keep learning • Keep building • Keep improving</sub></i>
+  <i>Keep learning • Keep building • Keep improving</i>
 </p>
