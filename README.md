@@ -55,10 +55,6 @@
 
 <h2 align="center">🔥 Languages • Frameworks • Tools 🔥</h2>
 
-<p align="center">
-  <i>Move your cursor over an icon to see its name.</i>
-</p>
-
 <br>
 
 <!-- Programming and Backend -->
