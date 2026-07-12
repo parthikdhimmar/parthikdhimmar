@@ -236,7 +236,7 @@
 <!--       DEPLOYMENT SECTION      -->
 <!-- ============================= -->
 
-<h3 align="center">🚀 Deployment</h3>
+<h3 align="center">Deployment</h3>
 
 <p align="center">
   <img
