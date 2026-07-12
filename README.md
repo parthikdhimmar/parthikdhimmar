@@ -4,15 +4,19 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=3500&pause=2000&color=16C9FF&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Welcome+to+My+GitHub+Profile!+%F0%9F%91%8B%F0%9F%8F%BB;I%27m+Parthik+Dhimmar"
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3600&pause=1800&color=FFD700&center=true&vCenter=true&repeat=true&width=850&height=80&lines=Welcome+to+My+GitHub+Profile!+%F0%9F%91%8B%F0%9F%8F%BB;I%27m+Parthik+Dhimmar"
     alt="Welcome Typing Animation"
   />
 </p>
 
-<h3 align="center">ASP.NET Core Web API Developer</h3>
+<h2 align="center">ASP.NET Core Web API Developer</h2>
 
 <p align="center">
-  BCA Graduate • Backend-Focused • Building clean REST APIs
+  <b>BCA Graduate</b>
+  &nbsp; • &nbsp;
+  Backend-Focused
+  &nbsp; • &nbsp;
+  Building Clean REST APIs
 </p>
 
 <p align="center">
@@ -49,63 +53,63 @@
 <!--       TECH STACK SECTION      -->
 <!-- ============================= -->
 
-<h2 align="center">🛠️ Tech Stack & Expertise</h2>
+<h2 align="center">🔥 Languages • Frameworks • Tools 🔥</h2>
 
 <p align="center">
-  Move the cursor over an icon to see its name.
+  <i>Move your cursor over an icon to see its name.</i>
 </p>
 
 <br>
 
-<!-- Programming and Backend Icons -->
+<!-- Programming and Backend -->
 
 <h3 align="center">💻 Programming & Backend</h3>
 
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=cs&theme=dark"
-    width="55"
-    height="55"
+    width="50"
+    height="50"
     title="C# Programming Language"
     alt="C#"
   />
   &nbsp;
   <img
     src="https://skillicons.dev/icons?i=dotnet&theme=dark"
-    width="55"
-    height="55"
+    width="50"
+    height="50"
     title="ASP.NET Core Web API"
     alt="ASP.NET Core"
   />
   &nbsp;
   <img
     src="https://skillicons.dev/icons?i=java&theme=dark"
-    width="55"
-    height="55"
+    width="50"
+    height="50"
     title="Java Programming Language"
     alt="Java"
   />
   &nbsp;
   <img
     src="https://skillicons.dev/icons?i=html&theme=dark"
-    width="55"
-    height="55"
+    width="50"
+    height="50"
     title="HTML5"
     alt="HTML5"
   />
   &nbsp;
   <img
     src="https://skillicons.dev/icons?i=css&theme=dark"
-    width="55"
-    height="55"
+    width="50"
+    height="50"
     title="CSS3"
     alt="CSS3"
   />
   &nbsp;
   <img
     src="https://skillicons.dev/icons?i=js&theme=dark"
-    width="55"
-    height="55"
+    width="50"
+    height="50"
     title="JavaScript Basic"
     alt="JavaScript"
   />
@@ -113,95 +117,103 @@
 
 <br>
 
-<!-- Database Icons -->
+<!-- Databases and API Technologies -->
 
 <h3 align="center">🗄️ Databases & API Technologies</h3>
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=firebase&theme=dark"
-    width="55"
-    height="55"
-    title="Firebase Database"
-    alt="Firebase"
-  />
-  &nbsp;
-  <img
-    src="https://skillicons.dev/icons?i=supabase&theme=dark"
-    width="55"
-    height="55"
-    title="Supabase Basic"
-    alt="Supabase"
-  />
-  &nbsp;
-  <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
-    width="55"
-    height="55"
+    width="50"
+    height="50"
     title="Microsoft SQL Server Basic"
     alt="SQL Server"
   />
   &nbsp;
   <img
+    src="https://skillicons.dev/icons?i=firebase&theme=dark"
+    width="50"
+    height="50"
+    title="Firebase"
+    alt="Firebase"
+  />
+  &nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=supabase&theme=dark"
+    width="50"
+    height="50"
+    title="Supabase Basic"
+    alt="Supabase"
+  />
+  &nbsp;
+  <img
     src="https://cdn.simpleicons.org/swagger/85EA2D"
-    width="55"
-    height="55"
+    width="50"
+    height="50"
     title="Swagger API Documentation"
     alt="Swagger"
+  />
+  &nbsp;
+  <img
+    src="https://cdn.simpleicons.org/openapiinitiative/6BA539"
+    width="50"
+    height="50"
+    title="REST API Development"
+    alt="REST APIs"
   />
 </p>
 
 <br>
 
-<!-- Development Tool Icons -->
+<!-- Development Tools -->
 
 <h3 align="center">🔧 Development Tools</h3>
 
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=visualstudio&theme=dark"
-    width="55"
-    height="55"
+    width="50"
+    height="50"
     title="Microsoft Visual Studio"
     alt="Visual Studio"
   />
   &nbsp;
   <img
     src="https://skillicons.dev/icons?i=vscode&theme=dark"
-    width="55"
-    height="55"
+    width="50"
+    height="50"
     title="Visual Studio Code"
     alt="VS Code"
   />
   &nbsp;
   <img
     src="https://skillicons.dev/icons?i=postman&theme=dark"
-    width="55"
-    height="55"
+    width="50"
+    height="50"
     title="Postman API Testing"
     alt="Postman"
   />
   &nbsp;
   <img
     src="https://skillicons.dev/icons?i=git&theme=dark"
-    width="55"
-    height="55"
+    width="50"
+    height="50"
     title="Git Version Control"
     alt="Git"
   />
   &nbsp;
   <img
     src="https://skillicons.dev/icons?i=github&theme=dark"
-    width="55"
-    height="55"
-    title="GitHub Code Hosting"
+    width="50"
+    height="50"
+    title="GitHub"
     alt="GitHub"
   />
   &nbsp;
   <img
     src="https://skillicons.dev/icons?i=androidstudio&theme=dark"
-    width="55"
-    height="55"
+    width="50"
+    height="50"
     title="Android Studio"
     alt="Android Studio"
   />
@@ -209,7 +221,7 @@
 
 <br>
 
-<!-- Extra Skill Badges -->
+<!-- Extra Skills -->
 
 <p align="center">
   <img
@@ -232,7 +244,47 @@
 
 <br>
 
-<!-- Keep this table code continuous without blank lines -->
+<!-- ============================= -->
+<!--       DEPLOYMENT SECTION      -->
+<!-- ============================= -->
+
+<h3 align="center">🚀 Deployment</h3>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=vercel&theme=dark"
+    width="50"
+    height="50"
+    title="Vercel Deployment"
+    alt="Vercel"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://api.iconify.design/simple-icons/render.svg?color=%2346E3B7"
+    width="50"
+    height="50"
+    title="Render Deployment"
+    alt="Render"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://api.iconify.design/simple-icons/railway.svg?color=%23FFFFFF"
+    width="50"
+    height="50"
+    title="Railway Deployment"
+    alt="Railway"
+  />
+</p>
+
+<p align="center">
+  <sub>Vercel &nbsp; • &nbsp; Render &nbsp; • &nbsp; Railway</sub>
+</p>
+
+<br>
+
+<!-- ============================= -->
+<!--        EXPERTISE TABLE        -->
+<!-- ============================= -->
 
 <table align="center">
 <thead>
@@ -271,6 +323,10 @@
 <td>Git, GitHub</td>
 </tr>
 <tr>
+<td align="center"><b>Deployment Platforms</b></td>
+<td>Vercel, Render, Railway (Basic)</td>
+</tr>
+<tr>
 <td align="center"><b>Other Skills</b></td>
 <td>MS Excel, AI-Assisted Development</td>
 </tr>
@@ -280,11 +336,6 @@
 <br>
 
 <hr>
-
-<p align="center">
-  <b>Thanks for visiting my GitHub profile! 🚀</b>
-</p>
-
 
 <!-- ============================= -->
 <!--        CONNECT WITH ME        -->
@@ -298,7 +349,15 @@
 
 <br>
 
-<p align="center"><a href="https://github.com/parthikdhimmar" title="GitHub Profile"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="52" height="52" alt="GitHub"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:parthikdhimmar003@gmail.com" title="Send Me an Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="52" height="52" alt="Gmail"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wa.me/91YOUR_10_DIGIT_NUMBER" title="Message Me on WhatsApp"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="52" height="52" alt="WhatsApp"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" title="Follow Me on Instagram"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="52" height="52" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.snapchat.com/add/YOUR_SNAPCHAT_USERNAME" title="Add Me on Snapchat"><img src="https://cdn.simpleicons.org/snapchat/FFFC00" width="52" height="52" alt="Snapchat"></a></p>
+<!-- Professional Profiles -->
+
+<p align="center"><a href="https://github.com/parthikdhimmar" title="GitHub Profile"><img src="https://api.iconify.design/skill-icons/github-dark.svg" width="46" height="46" alt="GitHub"></a>&nbsp;&nbsp;&nbsp;<a href="YOUR_LINKEDIN_PROFILE_URL" title="LinkedIn Profile"><img src="https://api.iconify.design/logos/linkedin-icon.svg" width="46" height="46" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;<a href="YOUR_NAUKRI_PROFILE_URL" title="Naukri.com Profile"><img src="https://api.iconify.design/mdi/briefcase-search-outline.svg?color=%2300AEEF" width="46" height="46" alt="Naukri.com"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:parthikdhimmar003@gmail.com" title="Send Me an Email"><img src="https://api.iconify.design/logos/google-gmail.svg" width="46" height="46" alt="Gmail"></a></p>
+
+<br>
+
+<!-- Social Profiles -->
+
+<p align="center"><a href="https://wa.me/91YOUR_10_DIGIT_NUMBER" title="Message Me on WhatsApp"><img src="https://api.iconify.design/logos/whatsapp-icon.svg" width="46" height="46" alt="WhatsApp"></a>&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" title="Instagram Profile"><img src="https://api.iconify.design/skill-icons/instagram.svg" width="46" height="46" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.snapchat.com/add/YOUR_SNAPCHAT_USERNAME" title="Snapchat Profile"><img src="https://api.iconify.design/logos/snapchat-icon.svg" width="46" height="46" alt="Snapchat"></a></p>
 
 <br>
 
