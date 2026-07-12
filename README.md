@@ -1,10 +1,10 @@
-<!-- ====================================== -->
-<!--          MODERN TOP ANIMATION          -->
-<!-- ====================================== -->
+<!-- ===================================== -->
+<!--          WELCOME ANIMATION            -->
+<!-- ===================================== -->
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=34&duration=4000&pause=1800&color=FFD700&background=00000000&center=true&vCenter=true&repeat=true&width=900&height=90&lines=Welcome+to+My+GitHub+Profile!+%F0%9F%91%8B%F0%9F%8F%BB;I%27m+Parthik+Dhimmar"
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3300&pause=1800&color=FFD700&center=true&vCenter=true&repeat=true&width=800&height=80&lines=Welcome+to+My+GitHub+Profile!+%F0%9F%91%8B%F0%9F%8F%BB;I%27m+Parthik"
     alt="Welcome Typing Animation"
   />
 </p>
@@ -12,16 +12,133 @@
 <h2 align="center">ASP.NET Core Web API Developer</h2>
 
 <p align="center">
-  <b>BCA Graduate</b>
-  &nbsp; • &nbsp;
-  Backend-Focused
-  &nbsp; • &nbsp;
-  Building Clean REST APIs
+  <b>BCA Graduate</b> • Backend-Focused • Building Clean REST APIs
 </p>
 
 <p align="center">
   I build simple and useful backend applications using
   <b>C#, ASP.NET Core, SQL Server, Swagger and Postman.</b>
+</p>
+
+<p align="center">
+  🌱 Learning advanced .NET backend development
+  &nbsp; • &nbsp;
+  💼 Open to entry-level opportunities
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Focused-16C9FF?style=for-the-badge" alt="Backend Focused">
+  <img src="https://img.shields.io/badge/Open_to-Work-7C3AED?style=for-the-badge" alt="Open to Work">
+  <img src="https://img.shields.io/badge/Always-Learning-00A98F?style=for-the-badge" alt="Always Learning">
+</p>
+
+<br>
+
+<hr>
+
+<!-- ===================================== -->
+<!--          CORE TECHNOLOGIES            -->
+<!-- ===================================== -->
+
+<h2 align="center">⚙️ Core Technologies</h2>
+
+<p align="center">
+  My main focus is backend development with C# and ASP.NET Core.
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=cs&theme=dark" width="75" height="75" alt="C#" title="C# Programming Language">
+<br>
+<strong>C#</strong>
+<br>
+<sub>Programming Language</sub>
+</td>
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="75" height="75" alt=".NET" title="ASP.NET Core Web API">
+<br>
+<strong>ASP.NET Core</strong>
+<br>
+<sub>Web API Development</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST-APIs-0096D6?style=for-the-badge" alt="REST APIs">
+  <img src="https://img.shields.io/badge/CRUD-Operations-00A98F?style=for-the-badge" alt="CRUD Operations">
+  <img src="https://img.shields.io/badge/SQL_Server-Basic-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Swagger-API_Documentation-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
+</p>
+
+<br>
+
+<table align="center">
+<thead>
+<tr>
+<th align="center">Category</th>
+<th align="left">Skills</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><strong>Programming</strong></td>
+<td>C#, Java, JavaScript Basic</td>
+</tr>
+<tr>
+<td align="center"><strong>Backend</strong></td>
+<td>ASP.NET Core Web API, REST APIs, CRUD Operations</td>
+</tr>
+<tr>
+<td align="center"><strong>Database</strong></td>
+<td>SQL Server Basic, Firebase, Supabase Basic</td>
+</tr>
+<tr>
+<td align="center"><strong>API Tools</strong></td>
+<td>Swagger, Postman</td>
+</tr>
+<tr>
+<td align="center"><strong>Development Tools</strong></td>
+<td>Visual Studio, VS Code, Git and GitHub</td>
+</tr>
+</tbody>
+</table>
+
+<br>
+
+<hr>
+
+<!-- ===================================== -->
+<!--            CONNECT SECTION            -->
+<!-- ===================================== -->
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<p align="center">
+  Open to learning, collaboration and entry-level software development opportunities.
+</p>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/parthikdhimmar" title="GitHub Profile"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="52" height="52" alt="GitHub"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:parthikdhimmar003@gmail.com" title="Send Me an Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="52" height="52" alt="Gmail"></a>
+</p>
+
+<br>
+
+<p align="center">
+  <strong>Thanks for visiting my GitHub profile! 🚀</strong>
+</p>
+
+<p align="center">
+  <i>Keep learning • Keep building • Keep improving</i>
 </p>
 
 <p align="center">
