@@ -4,9 +4,8 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=3500&pause=2000&color=16C9FF&center=true&vCenter=true&repeat=true&width=650&height=70&lines=Myself+Parthik;Hii+There!+%F0%9F%91%8B%F0%9F%8F%BB"
-        src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=3200&pause=1600&color=16C9FF&center=true&vCenter=true&repeat=true&width=850&height=70&lines=Welcome+to+My+GitHub+Profile!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Parthik+Dhimmar;
-
+    src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=3500&pause=2000&color=16C9FF&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Welcome+to+My+GitHub+Profile!+%F0%9F%91%8B%F0%9F%8F%BB;I%27m+Parthik+Dhimmar"
+    alt="Welcome Typing Animation"
   />
 </p>
 
@@ -60,6 +59,8 @@
 
 <!-- Programming and Backend Icons -->
 
+<h3 align="center">💻 Programming & Backend</h3>
+
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=cs&theme=dark"
@@ -110,7 +111,11 @@
   />
 </p>
 
+<br>
+
 <!-- Database Icons -->
+
+<h3 align="center">🗄️ Databases & API Technologies</h3>
 
 <p align="center">
   <img
@@ -146,7 +151,11 @@
   />
 </p>
 
+<br>
+
 <!-- Development Tool Icons -->
+
+<h3 align="center">🔧 Development Tools</h3>
 
 <p align="center">
   <img
@@ -198,6 +207,8 @@
   />
 </p>
 
+<br>
+
 <!-- Extra Skill Badges -->
 
 <p align="center">
@@ -221,145 +232,54 @@
 
 <br>
 
-| Category | Technologies |
-| :--- | :--- |
-| **Programming Languages** | C#, Java, JavaScript (Basic) |
-| **Backend Development** | ASP.NET Core Web API, REST APIs, CRUD Operations |
-| **Frontend Development** | HTML5, CSS3, JavaScript, Modern UI Web Design |
-| **Database Technologies** | SQL Server (Basic), Firebase, Supabase (Basic) |
-| **API Tools** | Swagger, Postman |
-| **Development Tools** | Visual Studio, VS Code, Android Studio |
-| **Version Control** | Git, GitHub |
-| **Other Skills** | MS Excel, AI-Assisted Development |
+<!-- Keep this table code continuous without blank lines -->
+
+<table align="center">
+<thead>
+<tr>
+<th align="center">Category</th>
+<th align="left">Technologies</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><b>Programming Languages</b></td>
+<td>C#, Java, JavaScript (Basic)</td>
+</tr>
+<tr>
+<td align="center"><b>Backend Development</b></td>
+<td>ASP.NET Core Web API, REST APIs, CRUD Operations</td>
+</tr>
+<tr>
+<td align="center"><b>Frontend Development</b></td>
+<td>HTML5, CSS3, JavaScript, Modern UI Web Design</td>
+</tr>
+<tr>
+<td align="center"><b>Database Technologies</b></td>
+<td>SQL Server (Basic), Firebase, Supabase (Basic)</td>
+</tr>
+<tr>
+<td align="center"><b>API Tools</b></td>
+<td>Swagger, Postman</td>
+</tr>
+<tr>
+<td align="center"><b>Development Tools</b></td>
+<td>Visual Studio, VS Code, Android Studio</td>
+</tr>
+<tr>
+<td align="center"><b>Version Control</b></td>
+<td>Git, GitHub</td>
+</tr>
+<tr>
+<td align="center"><b>Other Skills</b></td>
+<td>MS Excel, AI-Assisted Development</td>
+</tr>
+</tbody>
+</table>
 
 <br>
 
 <hr>
-
-<!-- ============================= -->
-<!--      CONTRIBUTION SNAKE       -->
-<!-- ============================= -->
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  Watch the snake move through my GitHub contribution graph.
-</p>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/parthikdhimmar/parthikdhimmar/main/dist/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/parthikdhimmar/parthikdhimmar/main/dist/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/parthikdhimmar/parthikdhimmar/main/dist/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake Animation"
-    />
-  </picture>
-</p>
-
-<p align="center">
-  <i>Every contribution is another step in my development journey.</i>
-</p>
-
-<br>
-
-<hr>
-
-<!-- ============================= -->
-<!--        CONTACT SECTION        -->
-<!-- ============================= -->
-
-<h2 align="center">🤝 Connect With Me</h2>
-
-<p align="center">
-  Open to learning, collaboration and entry-level software development opportunities.
-</p>
-
-<p align="center">
-
-  <a
-    href="https://github.com/parthikdhimmar"
-    title="Open my GitHub profile"
-  >
-    <img
-      src="https://img.shields.io/badge/GitHub-parthikdhimmar-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-
-  <a
-    href="mailto:parthikdhimmar003@gmail.com"
-    title="Send me an email"
-  >
-    <img
-      src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
-    />
-  </a>
-
-  <a
-    href="YOUR_LINKEDIN_PROFILE_URL"
-    title="Connect with me on LinkedIn"
-  >
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-</p>
-
-<p align="center">
-
-  <a
-    href="https://instagram.com/YOUR_INSTAGRAM_USERNAME"
-    title="Follow me on Instagram"
-  >
-    <img
-      src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
-  </a>
-
-  <a
-    href="https://facebook.com/YOUR_FACEBOOK_USERNAME"
-    title="Open my Facebook profile"
-  >
-    <img
-      src="https://img.shields.io/badge/Facebook-Profile-0866FF?style=for-the-badge&logo=facebook&logoColor=white"
-      alt="Facebook"
-    />
-  </a>
-
-  <a
-    href="https://wa.me/91YOUR_10_DIGIT_NUMBER"
-    title="Contact me on WhatsApp"
-  >
-    <img
-      src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-      alt="WhatsApp"
-    />
-  </a>
-
-  <a
-    href="https://www.snapchat.com/add/YOUR_SNAPCHAT_USERNAME"
-    title="Add me on Snapchat"
-  >
-    <img
-      src="https://img.shields.io/badge/Snapchat-Add_Me-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"
-      alt="Snapchat"
-    />
-  </a>
-
-</p>
-
-<br>
 
 <p align="center">
   <b>Thanks for visiting my GitHub profile! 🚀</b>
