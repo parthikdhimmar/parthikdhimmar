@@ -295,44 +295,43 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><b>Programming Languages</b></td>
-<td>C#, Java, JavaScript (Basic)</td>
+<td align="center"><b><sub>Programming Languages</sub></b></td>
+<td><sub>C#, Java, JavaScript (Basic)</sub></td>
 </tr>
 <tr>
-<td align="center"><b>Backend Development</b></td>
-<td>ASP.NET Core Web API, REST APIs, CRUD Operations</td>
+<td align="center"><b><sub>Backend Development</sub></b></td>
+<td><sub>ASP.NET Core Web API, REST APIs, CRUD Operations</sub></td>
 </tr>
 <tr>
-<td align="center"><b>Frontend Development</b></td>
-<td>HTML5, CSS3, JavaScript, Modern UI Web Design</td>
+<td align="center"><b><sub>Frontend Development</sub></b></td>
+<td><sub>HTML5, CSS3, JavaScript, Modern UI Web Design</sub></td>
 </tr>
 <tr>
-<td align="center"><b>Database Technologies</b></td>
-<td>SQL Server (Basic), Firebase, Supabase (Basic)</td>
+<td align="center"><b><sub>Database Technologies</sub></b></td>
+<td><sub>SQL Server (Basic), Firebase, Supabase (Basic)</sub></td>
 </tr>
 <tr>
-<td align="center"><b>API Tools</b></td>
-<td>Swagger, Postman</td>
+<td align="center"><b><sub>API Tools</sub></b></td>
+<td><sub>Swagger, Postman</sub></td>
 </tr>
 <tr>
-<td align="center"><b>Development Tools</b></td>
-<td>Visual Studio, VS Code, Android Studio</td>
+<td align="center"><b><sub>Development Tools</sub></b></td>
+<td><sub>Visual Studio, VS Code, Android Studio</sub></td>
 </tr>
 <tr>
-<td align="center"><b>Version Control</b></td>
-<td>Git, GitHub</td>
+<td align="center"><b><sub>Version Control</sub></b></td>
+<td><sub>Git, GitHub</sub></td>
 </tr>
 <tr>
-<td align="center"><b>Deployment Platforms</b></td>
-<td>Vercel, Render, Railway (Basic)</td>
+<td align="center"><b><sub>Deployment Platforms</sub></b></td>
+<td><sub>Vercel, Render, Railway (Basic)</sub></td>
 </tr>
 <tr>
-<td align="center"><b>Other Skills</b></td>
-<td>MS Excel, AI-Assisted Development</td>
+<td align="center"><b><sub>Other Skills</sub></b></td>
+<td><sub>MS Excel, AI-Assisted Development</sub></td>
 </tr>
 </tbody>
 </table>
-
 <br>
 
 <hr>
