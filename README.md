@@ -53,29 +53,6 @@
 <!--       TECH STACK SECTION      -->
 <!-- ============================= -->
 
-<p align="center">
-  <a
-    href="https://learn.microsoft.com/dotnet/csharp/"
-    title="C# Programming Language"
-  ><img
-      src="https://skillicons.dev/icons?i=cs&theme=dark"
-      width="55"
-      height="55"
-      alt="C#"
-  ></a>
-  &nbsp;&nbsp;
-
-  <a
-    href="https://dotnet.microsoft.com/"
-    title="ASP.NET Core Web API"
-  ><img
-      src="https://skillicons.dev/icons?i=dotnet&theme=dark"
-      width="55"
-      height="55"
-      alt="ASP.NET Core"
-  ></a>
-</p>
-
 <h2 align="center">🔥 Languages • Frameworks • Tools 🔥</h2>
 
 <br>
