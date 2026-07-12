@@ -160,9 +160,6 @@
     alt="REST APIs"
   />
 </p>
-
-<br>
-
 <!-- Development Tools -->
 
 <h3 align="center">🔧 Development Tools</h3>
