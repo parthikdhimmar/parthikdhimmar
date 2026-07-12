@@ -115,8 +115,6 @@
   />
 </p>
 
-<br>
-
 <!-- Databases and API Technologies -->
 
 <h3 align="center">🗄️ Databases & API Technologies</h3>
