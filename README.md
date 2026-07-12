@@ -238,27 +238,42 @@
 <!-- ============================= -->
 <!--      CONTRIBUTION SNAKE       -->
 <!-- ============================= -->
-name: Generate Pac-Man Contribution Game
+<hr>
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
+<!-- ============================= -->
+<!--    PAC-MAN CONTRIBUTION GAME   -->
+<!-- ============================= -->
 
-  workflow_dispatch:
+<h2 align="center">🟡 Pac-Man Contribution Game</h2>
 
-  push:
-    branches:
-      - main
+<p align="center">
+  Pac-Man is eating through my GitHub contributions!
+</p>
 
-permissions:
-  contents: write
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/parthikdhimmar/parthikdhimmar/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/parthikdhimmar/parthikdhimmar/output/pacman-contribution-graph.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/parthikdhimmar/parthikdhimmar/output/pacman-contribution-graph.svg"
+      alt="Pac-Man GitHub Contribution Game"
+    />
+  </picture>
+</p>
 
-jobs:
-  generate:
-    permissions:
-      contents: write
+<p align="center">
+  <i>Every contribution adds another piece to my development journey.</i>
+</p>
 
-   
+<br>
+
+<hr>   
 <!-- ============================= -->
 <!--        CONTACT SECTION        -->
 <!-- ============================= -->
