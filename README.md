@@ -284,3 +284,28 @@
 <p align="center">
   <b>Thanks for visiting my GitHub profile! 🚀</b>
 </p>
+
+
+<!-- ============================= -->
+<!--        CONNECT WITH ME        -->
+<!-- ============================= -->
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<p align="center">
+  Let’s connect, collaborate and build something useful.
+</p>
+
+<br>
+
+<p align="center"><a href="https://github.com/parthikdhimmar" title="GitHub Profile"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="52" height="52" alt="GitHub"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:parthikdhimmar003@gmail.com" title="Send Me an Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="52" height="52" alt="Gmail"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wa.me/91YOUR_10_DIGIT_NUMBER" title="Message Me on WhatsApp"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="52" height="52" alt="WhatsApp"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" title="Follow Me on Instagram"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="52" height="52" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.snapchat.com/add/YOUR_SNAPCHAT_USERNAME" title="Add Me on Snapchat"><img src="https://cdn.simpleicons.org/snapchat/FFFC00" width="52" height="52" alt="Snapchat"></a></p>
+
+<br>
+
+<p align="center">
+  <b>Thanks for visiting my GitHub profile! 🚀</b>
+</p>
+
+<p align="center">
+  <i>Keep learning • Keep building • Keep improving</i>
+</p>
