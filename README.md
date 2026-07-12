@@ -1,144 +1,23 @@
-<!-- ===================================== -->
-<!--          WELCOME ANIMATION            -->
-<!-- ===================================== -->
+<!-- ============================= -->
+<!--        TYPING ANIMATION       -->
+<!-- ============================= -->
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3300&pause=1800&color=FFD700&center=true&vCenter=true&repeat=true&width=800&height=80&lines=Welcome+to+My+GitHub+Profile!+%F0%9F%91%8B%F0%9F%8F%BB;I%27m+Parthik"
-    alt="Welcome Typing Animation"
+    src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=3500&pause=2000&color=16C9FF&center=true&vCenter=true&repeat=true&width=650&height=70&lines=Myself+Parthik;Hii+There!+%F0%9F%91%8B%F0%9F%8F%BB"
+    alt="Typing Animation"
   />
 </p>
 
-<h2 align="center">ASP.NET Core Web API Developer</h2>
+<h3 align="center">ASP.NET Core Web API Developer</h3>
 
 <p align="center">
-  <b>BCA Graduate</b> • Backend-Focused • Building Clean REST APIs
+  BCA Graduate • Backend-Focused • Building clean REST APIs
 </p>
 
 <p align="center">
   I build simple and useful backend applications using
   <b>C#, ASP.NET Core, SQL Server, Swagger and Postman.</b>
-</p>
-
-<p align="center">
-  🌱 Learning advanced .NET backend development
-  &nbsp; • &nbsp;
-  💼 Open to entry-level opportunities
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-Focused-16C9FF?style=for-the-badge" alt="Backend Focused">
-  <img src="https://img.shields.io/badge/Open_to-Work-7C3AED?style=for-the-badge" alt="Open to Work">
-  <img src="https://img.shields.io/badge/Always-Learning-00A98F?style=for-the-badge" alt="Always Learning">
-</p>
-
-<br>
-
-<hr>
-
-<!-- ===================================== -->
-<!--          CORE TECHNOLOGIES            -->
-<!-- ===================================== -->
-
-<h2 align="center">⚙️ Core Technologies</h2>
-
-<p align="center">
-  My main focus is backend development with C# and ASP.NET Core.
-</p>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center" width="180">
-<img src="https://skillicons.dev/icons?i=cs&theme=dark" width="75" height="75" alt="C#" title="C# Programming Language">
-<br>
-<strong>C#</strong>
-<br>
-<sub>Programming Language</sub>
-</td>
-<td align="center" width="180">
-<img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="75" height="75" alt=".NET" title="ASP.NET Core Web API">
-<br>
-<strong>ASP.NET Core</strong>
-<br>
-<sub>Web API Development</sub>
-</td>
-</tr>
-</table>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/REST-APIs-0096D6?style=for-the-badge" alt="REST APIs">
-  <img src="https://img.shields.io/badge/CRUD-Operations-00A98F?style=for-the-badge" alt="CRUD Operations">
-  <img src="https://img.shields.io/badge/SQL_Server-Basic-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/Swagger-API_Documentation-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
-</p>
-
-<br>
-
-<table align="center">
-<thead>
-<tr>
-<th align="center">Category</th>
-<th align="left">Skills</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"><strong>Programming</strong></td>
-<td>C#, Java, JavaScript Basic</td>
-</tr>
-<tr>
-<td align="center"><strong>Backend</strong></td>
-<td>ASP.NET Core Web API, REST APIs, CRUD Operations</td>
-</tr>
-<tr>
-<td align="center"><strong>Database</strong></td>
-<td>SQL Server Basic, Firebase, Supabase Basic</td>
-</tr>
-<tr>
-<td align="center"><strong>API Tools</strong></td>
-<td>Swagger, Postman</td>
-</tr>
-<tr>
-<td align="center"><strong>Development Tools</strong></td>
-<td>Visual Studio, VS Code, Git and GitHub</td>
-</tr>
-</tbody>
-</table>
-
-<br>
-
-<hr>
-
-<!-- ===================================== -->
-<!--            CONNECT SECTION            -->
-<!-- ===================================== -->
-
-<h2 align="center">🤝 Connect With Me</h2>
-
-<p align="center">
-  Open to learning, collaboration and entry-level software development opportunities.
-</p>
-
-<br>
-
-<p align="center">
-<a href="https://github.com/parthikdhimmar" title="GitHub Profile"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="52" height="52" alt="GitHub"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:parthikdhimmar003@gmail.com" title="Send Me an Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="52" height="52" alt="Gmail"></a>
-</p>
-
-<br>
-
-<p align="center">
-  <strong>Thanks for visiting my GitHub profile! 🚀</strong>
-</p>
-
-<p align="center">
-  <i>Keep learning • Keep building • Keep improving</i>
 </p>
 
 <p align="center">
@@ -166,171 +45,159 @@
 
 <hr>
 
-<!-- ====================================== -->
-<!--          TECH STACK SECTION            -->
-<!-- ====================================== -->
+<!-- ============================= -->
+<!--       TECH STACK SECTION      -->
+<!-- ============================= -->
 
 <h2 align="center">🛠️ Tech Stack & Expertise</h2>
 
 <p align="center">
-  <i>Move your cursor over an icon to see the technology name.</i>
+  Move the cursor over an icon to see its name.
 </p>
 
 <br>
 
-<h3 align="center">💻 Programming & Backend</h3>
+<!-- Programming and Backend Icons -->
 
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=cs&theme=dark"
-    width="58"
-    height="58"
+    width="55"
+    height="55"
     title="C# Programming Language"
     alt="C#"
   />
-  &nbsp;&nbsp;
+  &nbsp;
   <img
     src="https://skillicons.dev/icons?i=dotnet&theme=dark"
-    width="58"
-    height="58"
+    width="55"
+    height="55"
     title="ASP.NET Core Web API"
     alt="ASP.NET Core"
   />
-  &nbsp;&nbsp;
+  &nbsp;
   <img
     src="https://skillicons.dev/icons?i=java&theme=dark"
-    width="58"
-    height="58"
+    width="55"
+    height="55"
     title="Java Programming Language"
     alt="Java"
   />
-  &nbsp;&nbsp;
+  &nbsp;
   <img
     src="https://skillicons.dev/icons?i=html&theme=dark"
-    width="58"
-    height="58"
+    width="55"
+    height="55"
     title="HTML5"
     alt="HTML5"
   />
-  &nbsp;&nbsp;
+  &nbsp;
   <img
     src="https://skillicons.dev/icons?i=css&theme=dark"
-    width="58"
-    height="58"
+    width="55"
+    height="55"
     title="CSS3"
     alt="CSS3"
   />
-  &nbsp;&nbsp;
+  &nbsp;
   <img
     src="https://skillicons.dev/icons?i=js&theme=dark"
-    width="58"
-    height="58"
+    width="55"
+    height="55"
     title="JavaScript Basic"
     alt="JavaScript"
   />
 </p>
 
-<br>
-
-<h3 align="center">🗄️ Databases & API Technologies</h3>
+<!-- Database Icons -->
 
 <p align="center">
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
-    width="58"
-    height="58"
-    title="Microsoft SQL Server"
-    alt="SQL Server"
-  />
-  &nbsp;&nbsp;
-  <img
     src="https://skillicons.dev/icons?i=firebase&theme=dark"
-    width="58"
-    height="58"
+    width="55"
+    height="55"
     title="Firebase Database"
     alt="Firebase"
   />
-  &nbsp;&nbsp;
+  &nbsp;
   <img
     src="https://skillicons.dev/icons?i=supabase&theme=dark"
-    width="58"
-    height="58"
+    width="55"
+    height="55"
     title="Supabase Basic"
     alt="Supabase"
   />
-  &nbsp;&nbsp;
+  &nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+    width="55"
+    height="55"
+    title="Microsoft SQL Server Basic"
+    alt="SQL Server"
+  />
+  &nbsp;
   <img
     src="https://cdn.simpleicons.org/swagger/85EA2D"
-    width="58"
-    height="58"
+    width="55"
+    height="55"
     title="Swagger API Documentation"
     alt="Swagger"
   />
-  &nbsp;&nbsp;
-  <img
-    src="https://cdn.simpleicons.org/openapiinitiative/6BA539"
-    width="58"
-    height="58"
-    title="REST API Development"
-    alt="REST APIs"
-  />
 </p>
 
-<br>
-
-<h3 align="center">🔧 Development Tools</h3>
+<!-- Development Tool Icons -->
 
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=visualstudio&theme=dark"
-    width="58"
-    height="58"
+    width="55"
+    height="55"
     title="Microsoft Visual Studio"
     alt="Visual Studio"
   />
-  &nbsp;&nbsp;
+  &nbsp;
   <img
     src="https://skillicons.dev/icons?i=vscode&theme=dark"
-    width="58"
-    height="58"
+    width="55"
+    height="55"
     title="Visual Studio Code"
     alt="VS Code"
   />
-  &nbsp;&nbsp;
+  &nbsp;
   <img
     src="https://skillicons.dev/icons?i=postman&theme=dark"
-    width="58"
-    height="58"
+    width="55"
+    height="55"
     title="Postman API Testing"
     alt="Postman"
   />
-  &nbsp;&nbsp;
+  &nbsp;
   <img
     src="https://skillicons.dev/icons?i=git&theme=dark"
-    width="58"
-    height="58"
+    width="55"
+    height="55"
     title="Git Version Control"
     alt="Git"
   />
-  &nbsp;&nbsp;
+  &nbsp;
   <img
     src="https://skillicons.dev/icons?i=github&theme=dark"
-    width="58"
-    height="58"
+    width="55"
+    height="55"
     title="GitHub Code Hosting"
     alt="GitHub"
   />
-  &nbsp;&nbsp;
+  &nbsp;
   <img
     src="https://skillicons.dev/icons?i=androidstudio&theme=dark"
-    width="58"
-    height="58"
+    width="55"
+    height="55"
     title="Android Studio"
     alt="Android Studio"
   />
 </p>
 
-<br>
+<!-- Extra Skill Badges -->
 
 <p align="center">
   <img
@@ -353,93 +220,59 @@
 
 <br>
 
-<!-- Do not add empty lines inside this table -->
-
-<table align="center">
-<thead>
-<tr>
-<th align="center">Category</th>
-<th align="left">Technologies and Skills</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"><b>Programming Languages</b></td>
-<td>C#, Java, JavaScript Basic</td>
-</tr>
-<tr>
-<td align="center"><b>Backend Development</b></td>
-<td>ASP.NET Core Web API, REST APIs, CRUD Operations</td>
-</tr>
-<tr>
-<td align="center"><b>Frontend Development</b></td>
-<td>HTML5, CSS3, JavaScript, Modern UI Web Design</td>
-</tr>
-<tr>
-<td align="center"><b>Database Technologies</b></td>
-<td>SQL Server Basic, Firebase, Supabase Basic</td>
-</tr>
-<tr>
-<td align="center"><b>API Tools</b></td>
-<td>Swagger, Postman</td>
-</tr>
-<tr>
-<td align="center"><b>Development Tools</b></td>
-<td>Visual Studio, VS Code, Android Studio</td>
-</tr>
-<tr>
-<td align="center"><b>Version Control</b></td>
-<td>Git, GitHub</td>
-</tr>
-<tr>
-<td align="center"><b>Other Skills</b></td>
-<td>MS Excel, AI-Assisted Development</td>
-</tr>
-</tbody>
-</table>
+| Category | Technologies |
+| :--- | :--- |
+| **Programming Languages** | C#, Java, JavaScript (Basic) |
+| **Backend Development** | ASP.NET Core Web API, REST APIs, CRUD Operations |
+| **Frontend Development** | HTML5, CSS3, JavaScript, Modern UI Web Design |
+| **Database Technologies** | SQL Server (Basic), Firebase, Supabase (Basic) |
+| **API Tools** | Swagger, Postman |
+| **Development Tools** | Visual Studio, VS Code, Android Studio |
+| **Version Control** | Git, GitHub |
+| **Other Skills** | MS Excel, AI-Assisted Development |
 
 <br>
 
 <hr>
 
-<!-- ====================================== -->
-<!--       PAC-MAN CONTRIBUTION GAME        -->
-<!-- ====================================== -->
+<!-- ============================= -->
+<!--      CONTRIBUTION SNAKE       -->
+<!-- ============================= -->
 
-<h2 align="center">🟡 Pac-Man Contribution Game</h2>
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  Pac-Man is eating through my GitHub contributions!
+  Watch the snake move through my GitHub contribution graph.
 </p>
 
 <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/parthikdhimmar/parthikdhimmar/output/pacman-contribution-graph-dark.svg"
+      srcset="https://raw.githubusercontent.com/parthikdhimmar/parthikdhimmar/main/dist/github-contribution-grid-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/parthikdhimmar/parthikdhimmar/output/pacman-contribution-graph.svg"
+      srcset="https://raw.githubusercontent.com/parthikdhimmar/parthikdhimmar/main/dist/github-contribution-grid-snake.svg"
     />
     <img
-      src="https://raw.githubusercontent.com/parthikdhimmar/parthikdhimmar/output/pacman-contribution-graph.svg"
-      alt="Pac-Man GitHub Contribution Game"
+      src="https://raw.githubusercontent.com/parthikdhimmar/parthikdhimmar/main/dist/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake Animation"
     />
   </picture>
 </p>
 
 <p align="center">
-  <i>Every contribution adds another piece to my development journey.</i>
+  <i>Every contribution is another step in my development journey.</i>
 </p>
 
 <br>
 
 <hr>
 
-<!-- ====================================== -->
-<!--         ICON-ONLY CONTACT AREA         -->
-<!-- ====================================== -->
+<!-- ============================= -->
+<!--        CONTACT SECTION        -->
+<!-- ============================= -->
 
 <h2 align="center">🤝 Connect With Me</h2>
 
@@ -447,122 +280,86 @@
   Open to learning, collaboration and entry-level software development opportunities.
 </p>
 
-<br>
-
 <p align="center">
+
   <a
     href="https://github.com/parthikdhimmar"
-    title="GitHub Profile"
+    title="Open my GitHub profile"
   >
     <img
-      src="https://cdn.simpleicons.org/github/FFFFFF"
-      width="48"
-      height="48"
+      src="https://img.shields.io/badge/GitHub-parthikdhimmar-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;
 
   <a
     href="mailto:parthikdhimmar003@gmail.com"
-    title="Send Email"
+    title="Send me an email"
   >
     <img
-      src="https://cdn.simpleicons.org/gmail/EA4335"
-      width="48"
-      height="48"
+      src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Gmail"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;
 
   <a
     href="YOUR_LINKEDIN_PROFILE_URL"
-    title="LinkedIn Profile"
+    title="Connect with me on LinkedIn"
   >
     <img
-      src="https://cdn.simpleicons.org/linkedin/0A66C2"
-      width="48"
-      height="48"
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;
+
+</p>
+
+<p align="center">
 
   <a
-    href="YOUR_INSTAGRAM_PROFILE_URL"
-    title="Instagram Profile"
+    href="https://instagram.com/YOUR_INSTAGRAM_USERNAME"
+    title="Follow me on Instagram"
   >
     <img
-      src="https://cdn.simpleicons.org/instagram/E4405F"
-      width="48"
-      height="48"
+      src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       alt="Instagram"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;
 
   <a
-    href="YOUR_FACEBOOK_PROFILE_URL"
-    title="Facebook Profile"
+    href="https://facebook.com/YOUR_FACEBOOK_USERNAME"
+    title="Open my Facebook profile"
   >
     <img
-      src="https://cdn.simpleicons.org/facebook/1877F2"
-      width="48"
-      height="48"
+      src="https://img.shields.io/badge/Facebook-Profile-0866FF?style=for-the-badge&logo=facebook&logoColor=white"
       alt="Facebook"
     />
   </a>
-</p>
 
-<br>
-
-<p align="center">
   <a
     href="https://wa.me/91YOUR_10_DIGIT_NUMBER"
-    title="Message Me on WhatsApp"
+    title="Contact me on WhatsApp"
   >
     <img
-      src="https://cdn.simpleicons.org/whatsapp/25D366"
-      width="48"
-      height="48"
+      src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
       alt="WhatsApp"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;
 
   <a
-    href="YOUR_SNAPCHAT_PROFILE_URL"
-    title="Snapchat Profile"
+    href="https://www.snapchat.com/add/YOUR_SNAPCHAT_USERNAME"
+    title="Add me on Snapchat"
   >
     <img
-      src="https://cdn.simpleicons.org/snapchat/FFFC00"
-      width="48"
-      height="48"
+      src="https://img.shields.io/badge/Snapchat-Add_Me-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"
       alt="Snapchat"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;
 
-  <a
-    href="https://chatgpt.com/"
-    title="ChatGPT"
-  >
-    <img
-      src="https://cdn.simpleicons.org/openai/FFFFFF"
-      width="48"
-      height="48"
-      alt="ChatGPT"
-    />
-  </a>
 </p>
 
 <br>
 
 <p align="center">
   <b>Thanks for visiting my GitHub profile! 🚀</b>
-</p>
-
-<p align="center">
-  <i>Keep learning • Keep building • Keep improving</i>
 </p>
