@@ -9,31 +9,54 @@
   />
 </p>
 
-<h2 align="center">ASP.NET Core Web API Developer</h2>
+<h2 align="center">
+  ASP.NET Core Web API Developer
+</h2>
+
+<h3 align="center">
+  Java Mobile App Development &nbsp; • &nbsp; Modern Website UI Design
+</h3>
 
 <p align="center">
   <b>BCA Graduate</b>
   &nbsp; • &nbsp;
-  Backend-Focused
+  Backend-Focused Developer
   &nbsp; • &nbsp;
-  Building Clean REST APIs
+  Building Clean and Useful Applications
 </p>
 
 <p align="center">
-  I build simple and useful backend applications using
-  <b>C#, ASP.NET Core, SQL Server, Swagger and Postman.</b>
+  I am currently focused on developing backend applications using
+  <b>C#, ASP.NET Core Web API, SQL Server, Swagger and Postman.</b>
 </p>
 
 <p align="center">
-  🌱 Learning advanced .NET backend development
+  I also have experience in building
+  <b>Android mobile applications using Java</b>
+  and creating
+  <b>modern, responsive website interfaces using HTML, CSS and JavaScript.</b>
+</p>
+
+<p align="center">
+  🌱 Improving my .NET backend development skills
+  &nbsp; • &nbsp;
+  📱 Exploring Android application development
   &nbsp; • &nbsp;
   💼 Open to entry-level opportunities
 </p>
 
 <p align="center">
   <img
-    src="https://img.shields.io/badge/Backend-Focused-16C9FF?style=for-the-badge"
-    alt="Backend Focused"
+    src="https://img.shields.io/badge/Backend-Development-16C9FF?style=for-the-badge"
+    alt="Backend Development"
+  />
+  <img
+    src="https://img.shields.io/badge/Android-Java-3DDC84?style=for-the-badge&logo=android&logoColor=white"
+    alt="Android Java Development"
+  />
+  <img
+    src="https://img.shields.io/badge/Modern-Web_UI-FF6B6B?style=for-the-badge"
+    alt="Modern Web UI"
   />
   <img
     src="https://img.shields.io/badge/Open_to-Work-7C3AED?style=for-the-badge"
@@ -44,7 +67,6 @@
     alt="Always Learning"
   />
 </p>
-
 <br>
 
 <hr>
