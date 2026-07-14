@@ -26,8 +26,8 @@
   <b>C#, ASP.NET Core and SQL Server</b>
   <br>
   Also developing
-  <b>Java Android Development</b> and
-  <b>Modern Web UI Design</b>
+  <b>Android applications with Java</b> and
+  <b>designing modern web interfaces.</b>
 </p>
 
 <p align="center">
