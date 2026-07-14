@@ -13,31 +13,31 @@
   ASP.NET Core Web API Developer
 </h2>
 
-<h3 align="center">
-  Java Mobile App Development &nbsp; • &nbsp; Modern Website UI Design
-</h3>
-
 <p align="center">
-  Backend development with <b>C#, ASP.NET Core and SQL Server</b>
+  <b>BCA Graduate</b>
   &nbsp; • &nbsp;
-  Android apps with <b>Java</b>
+  Backend-Focused Developer
   &nbsp; • &nbsp;
-  Modern websites with <b>HTML, CSS and JavaScript</b>
+  Open to Entry-Level Roles
 </p>
 
 <p align="center">
-  🌱 Always Learning
-  &nbsp; • &nbsp;
-  💼 Open to Junior Developer Roles
+  Building clean REST APIs with
+  <b>C#, ASP.NET Core and SQL Server</b>
+  <br>
+  Exploring <b>Java Android Development</b> and
+  <b>Modern Web UI Design</b>
 </p>
 
 <p align="center">
-  🌱 Learning .NET Backend
-  &nbsp; • &nbsp;
+  🌱 Learning .NET
+  &nbsp;&nbsp; • &nbsp;&nbsp;
   📱 Building Android Apps
-  &nbsp; • &nbsp;
-  💼 Open to Junior Developer Roles
+  &nbsp;&nbsp; • &nbsp;&nbsp;
+  💼 Open to Work
 </p>
+
+<br>
 
 <p align="center">
   <img
