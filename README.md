@@ -26,23 +26,20 @@
 </p>
 
 <p align="center">
-  I am currently focused on developing backend applications using
-  <b>C#, ASP.NET Core Web API, SQL Server, Swagger and Postman.</b>
+  Backend development with
+  <b>C#, ASP.NET Core and SQL Server</b>
+  &nbsp; • &nbsp;
+  Android apps with <b>Java</b>
+  &nbsp; • &nbsp;
+  Modern websites with <b>HTML, CSS and JavaScript</b>
 </p>
 
 <p align="center">
-  I also have experience in building
-  <b>Android mobile applications using Java</b>
-  and creating
-  <b>modern, responsive website interfaces using HTML, CSS and JavaScript.</b>
-</p>
-
-<p align="center">
-  🌱 Improving my .NET backend development skills
+  🌱 Learning .NET Backend
   &nbsp; • &nbsp;
-  📱 Exploring Android application development
+  📱 Building Android Apps
   &nbsp; • &nbsp;
-  💼 Open to entry-level opportunities
+  💼 Open to Junior Developer Roles
 </p>
 
 <p align="center">
