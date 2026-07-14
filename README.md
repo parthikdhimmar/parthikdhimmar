@@ -25,7 +25,7 @@
   Building clean REST APIs with
   <b>C#, ASP.NET Core and SQL Server</b>
   <br>
-  Also exploring
+  Also developing
   <b>Java Android Development</b> and
   <b>Modern Web UI Design</b>
 </p>
