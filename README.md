@@ -18,20 +18,17 @@
 </h3>
 
 <p align="center">
-  <b>BCA Graduate</b>
-  &nbsp; • &nbsp;
-  Backend-Focused Developer
-  &nbsp; • &nbsp;
-  Building Clean and Useful Applications
-</p>
-
-<p align="center">
-  Backend development with
-  <b>C#, ASP.NET Core and SQL Server</b>
+  Backend development with <b>C#, ASP.NET Core and SQL Server</b>
   &nbsp; • &nbsp;
   Android apps with <b>Java</b>
   &nbsp; • &nbsp;
   Modern websites with <b>HTML, CSS and JavaScript</b>
+</p>
+
+<p align="center">
+  🌱 Always Learning
+  &nbsp; • &nbsp;
+  💼 Open to Junior Developer Roles
 </p>
 
 <p align="center">
