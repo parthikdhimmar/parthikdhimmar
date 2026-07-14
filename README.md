@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3600&pause=1800&color=FFD700&center=true&vCenter=true&repeat=true&width=850&height=80&lines=Welcome+to+My+GitHub+Profile!+%F0%9F%91%8B%F0%9F%8F%BB;I%27m+Parthik+Dhimmar"
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2800&pause=1400&color=FFD700&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Welcome+to+My+GitHub+Profile!+%F0%9F%91%8B%F0%9F%8F%BB;I%27m+Parthik+Dhimmar"
     alt="Welcome Typing Animation"
   />
 </p>
@@ -25,17 +25,18 @@
   Building clean REST APIs with
   <b>C#, ASP.NET Core and SQL Server</b>
   <br>
-  Exploring <b>Java Android Development</b> and
+  Also exploring
+  <b>Java Android Development</b> and
   <b>Modern Web UI Design</b>
 </p>
 
 <p align="center">
-  🌱 Learning .NET
+  🌱 Improving My .NET Backend Skills
   &nbsp;&nbsp; • &nbsp;&nbsp;
-  📱 Building Android Apps
-  &nbsp;&nbsp; • &nbsp;&nbsp;
-  💼 Open to Work
+  💼 Open to Entry-Level Opportunities
 </p>
+
+<br>
 
 <br>
 
