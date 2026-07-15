@@ -301,7 +301,7 @@
 <tbody>
 <tr>
 <td align="center"><b>Programming Languages</b></td>
-<td>C#, Java, JavaScript (Basic)</td>
+<td>C#, Java, JavaScript </td>
 </tr>
 <tr>
 <td align="center"><b>Backend Development</b></td>
@@ -313,7 +313,7 @@
 </tr>
 <tr>
 <td align="center"><b>Database Technologies</b></td>
-<td>SQL Server (Basic), Firebase, Supabase (Basic)</td>
+<td>SQL Server, Firebase, Supabase (Basic)</td>
 </tr>
 <tr>
 <td align="center"><b>API Tools</b></td>
