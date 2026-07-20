@@ -123,11 +123,26 @@
     src="https://skillicons.dev/icons?i=js&theme=dark"
     width="50"
     height="50"
-    title="JavaScript Basic"
+    title="JavaScript"
     alt="JavaScript"
   />
+  &nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=react&theme=dark"
+    width="50"
+    height="50"
+    title="React.js"
+    alt="React.js"
+  />
+  &nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=nextjs&theme=dark"
+    width="50"
+    height="50"
+    title="Next.js Basic"
+    alt="Next.js"
+  />
 </p>
-
 <!-- Databases and API Technologies -->
 
 <h3 align="center">Databases & API Technologies</h3>
