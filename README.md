@@ -74,9 +74,9 @@
 
 <br>
 
-<!-- Programming, Frontend and Backend -->
+<!-- Programming and Backend -->
 
-<h3 align="center">Programming • Frontend • Backend</h3>
+<h3 align="center">Programming & Backend</h3>
 
 <p align="center">
   <img
@@ -87,7 +87,6 @@
     alt="C#"
   />
   &nbsp;
-
   <img
     src="https://skillicons.dev/icons?i=dotnet&theme=dark"
     width="50"
@@ -96,7 +95,6 @@
     alt="ASP.NET Core"
   />
   &nbsp;
-
   <img
     src="https://skillicons.dev/icons?i=java&theme=dark"
     width="50"
@@ -105,7 +103,6 @@
     alt="Java"
   />
   &nbsp;
-
   <img
     src="https://skillicons.dev/icons?i=html&theme=dark"
     width="50"
@@ -114,7 +111,6 @@
     alt="HTML5"
   />
   &nbsp;
-
   <img
     src="https://skillicons.dev/icons?i=css&theme=dark"
     width="50"
@@ -123,33 +119,15 @@
     alt="CSS3"
   />
   &nbsp;
-
   <img
     src="https://skillicons.dev/icons?i=js&theme=dark"
     width="50"
     height="50"
-    title="JavaScript"
+    title="JavaScript Basic"
     alt="JavaScript"
   />
-  &nbsp;
-
-  <img
-    src="https://skillicons.dev/icons?i=react&theme=dark"
-    width="50"
-    height="50"
-    title="React.js"
-    alt="React.js"
-  />
-  &nbsp;
-
-  <img
-    src="https://skillicons.dev/icons?i=nextjs&theme=dark"
-    width="50"
-    height="50"
-    title="Next.js Basic"
-    alt="Next.js"
-  />
 </p>
+
 <!-- Databases and API Technologies -->
 
 <h3 align="center">Databases & API Technologies</h3>
@@ -385,3 +363,4 @@
 <p align="center">
   <i>Keep learning • Keep building • Keep improving</i>
 </p> 
+
