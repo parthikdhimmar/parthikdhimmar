@@ -324,7 +324,7 @@
 </tr>
 <tr>
 <td align="center"><b>Frontend Development</b></td>
-<td>HTML5, CSS3, JavaScript, Modern UI Web Design</td>
+<td>HTML5, CSS3, JavaScript, React.js, Next.js, Modern UI Web Design</td>
 </tr>
 <tr>
 <td align="center"><b>Database Technologies</b></td>
