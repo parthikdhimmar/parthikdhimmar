@@ -139,7 +139,7 @@
     src="https://skillicons.dev/icons?i=nextjs&theme=dark"
     width="50"
     height="50"
-    title="Next.js Basic"
+    title="Next.js"
     alt="Next.js"
   />
 </p>
